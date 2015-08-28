@@ -5,10 +5,10 @@
 
 ## 各プラグインの紹介
 
-my_slider_settings: ベースとなるプラグイン
-option_for_slider: オプション項目を追加するプラグイン
-num_of_slides_select: ベースとなるプラグインの入力を、テキスト=>セレクト、に変更するプラグイン
-num_of_slides_html5: ベースとなるプラグインの入力を、テキスト=>html5スライダー、に変更するプラグイン
+1. my_slider_settings: ベースとなるプラグイン
+1. option_for_slider: オプション項目を追加するプラグイン
+1. num_of_slides_select: ベースとなるプラグインの入力を、テキスト=>セレクト、に変更するプラグイン
+1. num_of_slides_html5: ベースとなるプラグインの入力を、テキスト=>html5スライダー、に変更するプラグイン
 
 ## ライセンス
 GPL ver.2 or later
